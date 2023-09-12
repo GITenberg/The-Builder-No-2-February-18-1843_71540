@@ -1,0 +1,27 @@
+_repo: The-Builder-No-2-February-18-1843_71540
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Office, Publishing
+    gutenberg_agent_id: '56276'
+    url: http://www.gutenberg.org/2009/agents/56276
+description: ''
+gutenberg_issued: '2023-09-01'
+identifiers:
+  gutenberg: '71540'
+language: en
+pgterms:marc905: 20060130085424publishing
+pgterms:marc906: '1844'
+pgterms:marc907: gb
+production_note: Charlene Taylor, David Garcia, Jon Ingram and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Library of Early Journals. Noted on site that this
+  resource is no longer available.)
+publication_note: '  $aLondon :$bPublishing Office 2 York Stree Covent Garden, $c1844.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Builder, No. 2, February 18, 1843
+url: http://www.gutenberg.org/ebooks/71540

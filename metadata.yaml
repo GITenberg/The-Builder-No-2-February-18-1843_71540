@@ -5,7 +5,12 @@ contributor:
     agent_name: Office, Publishing
     gutenberg_agent_id: '56276'
     url: http://www.gutenberg.org/2009/agents/56276
+covers:
+- cover_type: archival
+  image_path: 71540-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71540#The-Builder-No-2-February-18-1843
 gutenberg_issued: '2023-09-01'
 identifiers:
   gutenberg: '71540'
